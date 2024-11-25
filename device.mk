@@ -15,7 +15,7 @@
 #
 
 DEVICE_PATH := device/samsung/a70q
-
+TARGET_BOARD_PLATFORM := sm6150
 # Local overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(DEVICE_PATH)/overlay
